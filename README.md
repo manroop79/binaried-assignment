@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Binaried - Full-Stack Social Media Platform
 
 A production-grade Twitter/X clone showcasing modern web development practices, advanced performance optimizations, and real-time capabilities.
@@ -409,4 +410,7 @@ Built as a portfolio project to showcase:
 
 ⭐ If this project helped you learn something new, please star the repo!
 
-**Technologies Used:** Next.js · React · TypeScript · Node.js · Express · MongoDB · Socket.io · Tailwind CSS · Framer Motion · Zustand
+**Technologies Used:** Next.js · React · TypeScript · Node.js · Express · MongoDB · Socket.io · Tailwind CSS · Framer Motion · Zustand=======
+# binaried-assignment
+>>>>>>> 354b974b6b3ca83c7aab3351482cd40e1b44108a
+
