@@ -400,6 +400,4 @@ Built as a portfolio project to showcase:
 
 ---
 
-⭐ If this project helped you learn something new, please star the repo!
-
 **Technologies Used:** Next.js · React · TypeScript · Node.js · Express · MongoDB · Socket.io · Tailwind CSS · Framer Motion · Zustand
