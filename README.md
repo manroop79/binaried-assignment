@@ -27,12 +27,6 @@ A production-grade Twitter/X clone showcasing modern web development practices, 
 
 </div>
 
-> **Note:** Add your screenshots to `bd/public/screenshots/` folder:
-> - `home.png` - Home feed view
-> - `profile.png` - User profile page
-> - `post.png` - Post detail/lightbox
-> - `mobile.png` - Mobile responsive view
-
 ## ✨ Key Features
 
 ### Real-time & Interactive
