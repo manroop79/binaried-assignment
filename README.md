@@ -385,9 +385,9 @@ MIT License - Free to use for learning and portfolios
 ## 👤 Author
 
 **Manroop Singh**
-- GitHub: [@manroopsingh](https://github.com/manroopsingh)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- Portfolio: https://portfolio-alpha-nine-lqvrujkrt8.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/manroop-singh-663a432a1/
+- Email: manroop1111@gmail.com
 
 ## 🙏 Acknowledgments
 
